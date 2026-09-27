@@ -1,0 +1,47 @@
+title,author,genre,description,rating
+1984,George Orwell,Dystopian,"A surveillance state controls language, history and private life while one individual questions totalitarian power.",4.6
+Brave New World,Aldous Huxley,Dystopian,"A technologically managed society uses conditioning, pleasure and social engineering to maintain stability.",4.4
+Fahrenheit 451,Ray Bradbury,Dystopian,"In a future where books are forbidden, a fireman begins to question censorship and conformity.",4.3
+The Handmaid's Tale,Margaret Atwood,Dystopian,"A woman struggles for autonomy in an authoritarian society structured by rigid social control.",4.4
+Animal Farm,George Orwell,Political Satire,"Farm animals overthrow their owner, but a new hierarchy gradually reproduces oppression and propaganda.",4.5
+The Great Gatsby,F. Scott Fitzgerald,Classic,"A mysterious millionaire pursues an idealized past amid wealth, status and disillusionment in 1920s America.",4.2
+Pride and Prejudice,Jane Austen,Romance,"Family expectations, social class and mistaken first impressions shape the relationship between Elizabeth Bennet and Mr Darcy.",4.6
+Jane Eyre,Charlotte Bronte,Romance,"An independent governess seeks dignity, love and moral autonomy while confronting secrets and social constraints.",4.5
+Wuthering Heights,Emily Bronte,Gothic,"An intense and destructive relationship unfolds across generations on the Yorkshire moors.",4.1
+Frankenstein,Mary Shelley,Gothic,"A scientist creates life and then faces the ethical and emotional consequences of rejecting his creation.",4.3
+Dracula,Bram Stoker,Gothic,"A group of people confront a mysterious Transylvanian count whose arrival threatens Victorian society.",4.2
+The Hobbit,J.R.R. Tolkien,Fantasy,"A reluctant hobbit joins a company of dwarves on an adventure involving a dragon, treasure and personal courage.",4.7
+The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,"A young hobbit begins a dangerous journey with companions to resist a powerful evil artifact.",4.8
+The Two Towers,J.R.R. Tolkien,Fantasy,"Separated companions face war, temptation and difficult alliances as the struggle for Middle-earth intensifies.",4.8
+The Return of the King,J.R.R. Tolkien,Fantasy,"The final struggle for Middle-earth combines war, sacrifice, friendship and the destruction of a corrupting power.",4.9
+A Game of Thrones,George R.R. Martin,Fantasy,"Noble families compete for political power while older supernatural dangers begin to return.",4.7
+The Name of the Wind,Patrick Rothfuss,Fantasy,"A gifted musician and magician recounts his youth, education and search for answers about a mysterious tragedy.",4.6
+Dune,Frank Herbert,Science Fiction,"Political conflict, ecology, religion and resource scarcity converge on a desert planet central to an interstellar empire.",4.8
+Foundation,Isaac Asimov,Science Fiction,"Scientists use mathematical forecasting to preserve knowledge as a vast galactic empire enters decline.",4.5
+Neuromancer,William Gibson,Science Fiction,"A damaged hacker is recruited for a dangerous digital operation in a cyberpunk world of corporations and artificial intelligence.",4.2
+The Martian,Andy Weir,Science Fiction,"An astronaut stranded on Mars relies on engineering, science and persistence to survive and communicate with Earth.",4.7
+Project Hail Mary,Andy Weir,Science Fiction,"A lone astronaut uses scientific problem-solving and an unexpected partnership to confront a threat to humanity.",4.8
+Do Androids Dream of Electric Sheep?,Philip K. Dick,Science Fiction,"A bounty hunter tracks artificial humans while questioning empathy, identity and what it means to be human.",4.2
+Murder on the Orient Express,Agatha Christie,Mystery,"Detective Hercule Poirot investigates a murder aboard a snowbound luxury train where every passenger has a secret.",4.6
+And Then There Were None,Agatha Christie,Mystery,"Ten strangers isolated on an island are confronted by accusations and a sequence of unexplained deaths.",4.7
+The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,"Sherlock Holmes investigates a family legend, a mysterious death and suspicious events on the moors.",4.5
+Gone Girl,Gillian Flynn,Thriller,"A marriage becomes the focus of suspicion and media attention after a woman disappears under troubling circumstances.",4.3
+The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,"A journalist and a skilled hacker investigate a decades-old disappearance tied to a powerful family.",4.5
+The Silent Patient,Alex Michaelides,Thriller,"A psychotherapist becomes obsessed with understanding why a famous painter stopped speaking after a violent crime.",4.3
+Sapiens,Yuval Noah Harari,History,"A broad narrative examines how cognition, agriculture, institutions and shared beliefs shaped human societies.",4.5
+Guns Germs and Steel,Jared Diamond,History,"A comparative account explores environmental and geographic factors behind different paths of societal development.",4.4
+The Silk Roads,Peter Frankopan,History,"World history is retold through the trade routes and regions connecting Europe, Asia and the Middle East.",4.3
+Thinking Fast and Slow,Daniel Kahneman,Psychology,"An exploration of intuitive and deliberate thinking, cognitive biases and decision-making under uncertainty.",4.5
+Atomic Habits,James Clear,Self Help,"A practical framework explains how small behavioral changes, cues and systems can support lasting habits.",4.6
+Deep Work,Cal Newport,Productivity,"Focused, distraction-free work is presented as a trainable skill for producing valuable results in a demanding environment.",4.4
+The Lean Startup,Eric Ries,Business,"Entrepreneurial teams test assumptions through minimum viable products, feedback loops and iterative learning.",4.4
+Good to Great,Jim Collins,Business,"A management study examines organizational patterns associated with sustained improvements in business performance.",4.3
+The Innovator's Dilemma,Clayton Christensen,Business,"The book explains why successful firms can struggle when disruptive technologies reshape markets and customer needs.",4.4
+Zero to One,Peter Thiel,Business,"Startup strategy is discussed through innovation, monopoly, differentiation and the creation of new value.",4.2
+The Psychology of Money,Morgan Housel,Finance,"Short essays examine how behavior, uncertainty, incentives and personal experience shape financial decisions.",4.7
+A Random Walk Down Wall Street,Burton G. Malkiel,Finance,"An accessible discussion of market efficiency, diversification and long-term investment approaches.",4.4
+The Intelligent Investor,Benjamin Graham,Finance,"A classic value-investing framework emphasizes margin of safety, disciplined analysis and investor psychology.",4.6
+Blue Ocean Strategy,W. Chan Kim and Renee Mauborgne,Business,"A strategy framework encourages firms to create uncontested market space through value innovation rather than compete only within existing industry boundaries.",4.3
+Competitive Strategy,Michael E. Porter,Business,"A framework for analyzing industry structure, competitive forces and strategic positioning to understand sources of business advantage.",4.5
+Good Strategy Bad Strategy,Richard Rumelt,Business,"The book distinguishes coherent strategic diagnosis and action from vague goals, slogans and unsupported ambitions.",4.6
+Measure What Matters,John Doerr,Business,"Objectives and key results are presented as a management system for setting priorities, aligning teams and tracking outcomes.",4.3
